@@ -1,35 +1,35 @@
-=== Hostinger AI theme ===
-Tags: ai-theme
+=== Hostinger theme ===
+Tags: theme
 Requires at least: 5.6
 Tested up to: 7.1
 Requires PHP: 8.0
 Stable tag: 2.1.13
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
-Text Domain: hostinger-ai-theme
+Text Domain: hostinger-theme
 
 == Description ==
 
-Hostinger AI theme built with SEO and mobile responsiveness in mind, this theme ensures optimal performance and a better online presence.
+Hostinger theme built with SEO and mobile responsiveness in mind, this theme ensures optimal performance and a better online presence.
 
 == Changelog ==
 
 2.1.13 (2026-10-06)
 
 - Fix: Add error details
-- Fix: Returning to the AI Builder after a long break starts a new generation instead of showing a timeout error
+- Fix: Returning to the Builder after a long break starts a new generation instead of showing a timeout error
 - Fix: Remove connection status method for Affiliate
-- Fix: AI font pairing suggestions on non-English sites now use the correct font details.
+- Fix: Font pairing suggestions on non-English sites now use the correct font details.
 - Fix: Font picker shows font names with proper spacing (e.g. "Playfair Display" instead of "PlayfairDisplay").
-- Fix: Opening the AI Builder in a second tab no longer cancels a website generation that is already running
+- Fix: Opening the Builder in a second tab no longer cancels a website generation that is already running
 - Fix: Single-page generation no longer fails with "No page type determined"
 
 2.1.12 (2026-09-29)
 
 - Fix: Mark onboarding as done on website generation
-- Fix: AI Website Builder admin page now blocks users without the required permission.
+- Fix: Website Builder admin page now blocks users without the required permission.
 - Fix: Amplitude events
-- Tweak: The AI Builder prompt screen now shows a clear "Go to WordPress admin" button and makes it obvious that you are building a WordPress site.
+- Tweak: The Builder prompt screen now shows a clear "Go to WordPress admin" button and makes it obvious that you are building a WordPress site.
 
 2.1.11 (2026-09-24)
 
@@ -39,16 +39,16 @@ Hostinger AI theme built with SEO and mobile responsiveness in mind, this theme 
 2.1.10 (2026-09-22)
 
 - Feature: Prefill contacts email with the WP admin email
-- Fix: AI Builder no longer opens the prompt screen with a false "5 versions will be deleted" warning when re-entering a site
-- Fix: Re-entering the AI Builder menu on a generated site opens the preview screen with all previous versions, instead of restarting the generation flow
+- Fix: Builder no longer opens the prompt screen with a false "5 versions will be deleted" warning when re-entering a site
+- Fix: Re-entering the Builder menu on a generated site opens the preview screen with all previous versions, instead of restarting the generation flow
 - Fix: The version limit warning now shows the real number of versions instead of a hardcoded 5
-- Fix: Ed AI website generation failing with a job mismatch error
+- Fix: Ed website generation failing with a job mismatch error
 - Fix: Critical error on blog creation
 - Feature: Screenshots functionality
 
 2.1.9 (2026-09-16)
 
-- Fix: AI Engine Experiment
+- Fix: Engine Experiment
 
 2.1.8 (2026-09-16)
 
@@ -145,9 +145,9 @@ Hostinger AI theme built with SEO and mobile responsiveness in mind, this theme 
 
 2.0.29 (2026-07-07)
 
-- Tweak: Translate AI menu post title
+- Tweak: Translate menu post title
 - Tweak: Update dependencies
-- Fix: AI Menus Duplication when re-creating the site
+- Fix: Menus Duplication when re-creating the site
 
 2.0.28 (2026-06-30)
 - Feature: Cleanup of previous data
@@ -158,7 +158,7 @@ Hostinger AI theme built with SEO and mobile responsiveness in mind, this theme 
 
 2.0.26 (2026-06-23)
 - Feature: Socials customization
-- Fix: About Us Images not being replaced by AI on site creation
+- Fix: About Us Images not being replaced by on site creation
 
 2.0.25 (2026-06-18)
 - Feature: Update translations
@@ -185,7 +185,7 @@ Hostinger AI theme built with SEO and mobile responsiveness in mind, this theme 
 - Tweak: Update dependencies
 - Fix: CTA link in Hero section
 - Fix: Duplicated sections
-- Fix: Loading state in Enhance by AI button
+- Fix: Loading state in Enhance by button
 
 2.0.21 (2026-06-02)
 - Tweak: Update dependencies
@@ -254,12 +254,12 @@ Hostinger AI theme built with SEO and mobile responsiveness in mind, this theme 
 - Feature: New Booking sections
 
 2.0.11 (2026-04-23)
-- Fix: Hero section "Learn more" text not replaced with AI generated content
+- Fix: Hero section "Learn more" text not replaced with generated content
 - Fix: Finish customization button wrap
 - Fix: Remove selector label wraping
 
 2.0.10 (2026-04-21)
-- Fix: Services titles are not AI populated
+- Fix: Services titles are not populated
 - Fix: Code duplication on amplitude events (#642)
 - Fix: Landing page website type
 - Feature: New Review sections
@@ -279,7 +279,7 @@ Hostinger AI theme built with SEO and mobile responsiveness in mind, this theme 
 - Feature: Add all WordPress supported languages
 - Fix: Prevent 504 error for clients
 - Feature: Date format based on language
-- Fix: Change AI Chat to Chat
+- Fix: Change Chat to Chat
 - Feature: Hero for India sites
 - Rename "My own font pair" to "Your own font pair"
 - Feature: Update translations
@@ -293,7 +293,7 @@ Hostinger AI theme built with SEO and mobile responsiveness in mind, this theme 
 - Fix: Preselect font (#605)
 - Fix: State of colors and fonts
 - Feature: Preserve whole chatbot history (#583)
-- Feature: Connect fonts to AI customization (#559)
+- Feature: Connect fonts to customization (#559)
 - Feature: Add Hero for Services section
 - Fix: Update brand name input placeholder (#599)
 - Fix: Disable input clear action (#597)
@@ -320,7 +320,7 @@ Hostinger AI theme built with SEO and mobile responsiveness in mind, this theme 
 - Fix: Color codes in during your own color selection
 - Fix: Amplitude events
 - Fix: Fallback for default description
-- Fix: Batch ecommerce product sections for unique AI-generated names
+- Fix: Batch ecommerce product sections for unique-generated names
 - Dev: Release automations
 
 2.0.5 (2026-03-26)
@@ -359,7 +359,7 @@ Hostinger AI theme built with SEO and mobile responsiveness in mind, this theme 
 2.0.1 (2026-03-11)
 - Feature: Disable Elementor popups
 - Feature: Changable fonts in Elementor
-- Feature: AI first redirect banner
+- Feature: first redirect banner
 - Feature: Adjust ecommerce buttons links logic
 - Fix: Limit navigation
 - Feature: Colors more visible
@@ -376,8 +376,8 @@ Hostinger AI theme built with SEO and mobile responsiveness in mind, this theme 
 
 1.2.7 (2026-03-03)
 - Feature: Enable multiple website types
-- Feature: AI theme: second iteration
-- Fix: Enhance with AI enabled
+- Feature: theme: second iteration
+- Fix: Enhance with enabled
 - Fix: sections and pages creation from gutenberg block
 
 1.2.6 (2026-02-26)
@@ -393,7 +393,7 @@ Hostinger AI theme built with SEO and mobile responsiveness in mind, this theme 
 
 1.2.4 (2026-02-19)
 - Fix: Terms and conditions page in navbar
-- Feature: Implement scam detector for AI builder
+- Feature: Implement scam detector for builder
 
 1.2.3 (2026-02-17)
 - Feature: Add FAQ section
@@ -431,7 +431,7 @@ Hostinger AI theme built with SEO and mobile responsiveness in mind, this theme 
 - Fix: Set correct default language code
 
 1.1.8 (2025-12-19)
-- Fix: Fatal error generating AI content
+- Fix: Fatal error generating content
 
 1.1.7 (2025-12-18)
 - Fix: Fatal error when generating blog posts
@@ -512,7 +512,7 @@ Hostinger AI theme built with SEO and mobile responsiveness in mind, this theme 
 1.0.54 (2025-09-08)
 - Dev: Deployment workflows improvements
 - Dev: Dependency updates
-- Feature: Improved AI websites image generation
+- Feature: Improved websites image generation
 - Fix: Navigation style issues
 - Feature: Don't create blog posts for online store website type
 
@@ -549,8 +549,8 @@ Hostinger AI theme built with SEO and mobile responsiveness in mind, this theme 
 - Fixed alt text for cover images
 - Fixed shop archive page footer
 - Added new real estate sections
-- Improved AI description templates
-- Improved AI prompt logic
+- Improved description templates
+- Improved prompt logic
 
 1.0.44 (2025-06-26)
 - Fixed wrong section selection
@@ -565,7 +565,7 @@ Hostinger AI theme built with SEO and mobile responsiveness in mind, this theme 
 - New product category variations
 - Fixed updates theme updates
 - Updated translations
-- Added new sections for AI builder
+- Added new sections for builder
 
 1.0.42 (2025-06-12)
 - Updated WooCommerce page styles
@@ -575,7 +575,7 @@ Hostinger AI theme built with SEO and mobile responsiveness in mind, this theme 
 - Show product thumbnails on Cart and Checkout pages
 
 1.0.41
-- AI Builder: prompt assistant UI
+- Builder: prompt assistant UI
 
 1.0.40
 - Added more fonts
@@ -728,7 +728,7 @@ Hostinger AI theme built with SEO and mobile responsiveness in mind, this theme 
 
 1.0.1
 - Theme readme
-- Add AI logic in theme
+- Add logic in theme
 - Add localization
 
 1.0.0
